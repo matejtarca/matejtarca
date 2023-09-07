@@ -10,7 +10,7 @@
 - 💬 Ask me about
   - How to speed up Jest tests, how to utilize react server components in Next.js or just how am I doing (I prefer the third question)
 - 📫 How to reach me
-  - Does Github have IMs? (should it have? 😅) or just use my mail paired with Github.
+  - Does Github have IMs? (should it have? 😅), my mail paired with Github is okay.
 - ⚡ Fun fact
   - 🪄 I did street magic in Berlin, London and Prague
 
